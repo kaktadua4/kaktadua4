@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kaktadua4
 - 👀 I’m interested in ai
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python , java , html 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.facebook.com/arafat.mahmud.365766
 
